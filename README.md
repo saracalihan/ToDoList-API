@@ -6,7 +6,7 @@ I aimed to learn and experience crud operations.
 ### Technologies to be used in the Project:
 + Node.js
 + Express.js
-+ Sequelie
++ Sequelize
 + MySQL
 + Nodemon
 ### Project Details:
